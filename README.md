@@ -170,7 +170,7 @@ The analysis reveals that while the company maintains a high response rate, syst
 
 
 ## Contact Information
-•	LinkedIn: https://www.linkedin.com/in/emmanuel-thomeson/
-•	Email: thoesonemmanuel@gmail.com
+* LinkedIn: https://www.linkedin.com/in/emmanuel-thomeson/
+* Email: thoesonemmanuel@gmail.com
 
 
