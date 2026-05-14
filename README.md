@@ -124,20 +124,16 @@ complaints resulted in monetary or non-monetary relief.
 * Expected Impact:Reduction in the total volume of account-related complaints and improved customer autonomy, leading to lower operational costs for manual support.
 
 ### Regional Resource Allocation
-#### Finding: 
-  California, Florida, Texas, and New York record the highest number of complaints. 
-#### Recommendation:
-  Align customer service staffing and regional training programs to match the high volume in these four states. Consider localized marketing or communication strategies to address regional concerns or regulatory differences.
-#### Stakeholders:
-  Operations, Executive Leadership, Marketing.
-#### Expected Impact: 
-  Improved regional customer satisfaction and faster resolution times for high-volume areas.
+
+* Finding: California, Florida, Texas, and New York record the highest number of complaints.
+* Recommendation: Align customer service staffing and regional training programs to match the high volume in these four states. Consider localized marketing or communication strategies to address regional concerns or regulatory differences.
+* Stakeholders: Operations, Executive Leadership, Marketing.
+* Expected Impact: Improved regional customer satisfaction and faster resolution times for high-volume areas.
   
 ### Digital Channel Enhancement
-#### Finding: 
-  The Web is the most frequently used channel for complaints. 
-#### Recommendation:
-  Invest in the stability and user experience (UX) of the web-based complaint submission system. Integrate real-time status tracking for complaints submitted online so customers are kept informed without needing to call.
+
+* Finding: The Web is the most frequently used channel for complaints. 
+* Recommendation: Invest in the stability and user experience (UX) of the web-based complaint submission system. Integrate real-time status tracking for complaints submitted online so customers are kept informed without needing to call.
 #### Stakeholders:
   Data and Analytics Team, Product Managers.
 #### Expected Impact:
