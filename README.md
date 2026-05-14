@@ -5,18 +5,18 @@ A comprehensive data analysis project examining consumer complaints in the bank 
 
 ## Table of Content
 
-•	[Introduction](introduction)
-•	(Project Description](project-description)
-•	[Project Aim](project-aim)
-•	[About the Dataset](about-the-dataset)
-•	[Tools Used](tools-used)
-•	[Methodology](methodology)
-•	[Data Cleaning and Transformation](data-cleaning-and-transformation)
-•	[Data Modeling](data-modeling)
-•	[Data Analysis](data-analysis)
-•	[Data Visualization](data-visualization)
-•	[Key Insights](key-insights)
-•	[Recommendations](recommendation)
+* [Introduction](introduction)
+* [Project Description](project-description)
+*	[Project Aim](project-aim)
+* [About the Dataset](about-the-dataset)
+*	[Tools Used](tools-used)
+*	[Methodology](methodology)
+*	[Data Cleaning and Transformation](data-cleaning-and-transformation)
+*	[Data Modeling](data-modeling)
+*	[Data Analysis](data-analysis)
+*	[Data Visualization](data-visualization)
+*	[Key Insights](key-insights)
+*	[Recommendations](recommendation)
 
 
 ## Introduction
