@@ -70,24 +70,100 @@ The analysis focused on several key performance indicators:
 
 ## Data Visualization
 ### Dashboard Page 1: Complaint Overview 
-#### KPI Cards: Total Complaints, Affected Products, and Timely Response Rate. 
-•	Line Chart: Complaint trends over time (showing a peak in 2022). 
-•	Bar Chart: Most common complaint issues and complaints by product. 
-•	Slicers: Product and State filters for deep-dive analysis. 
-Dashboard Page 2: Company Performance 
-•	Doughnut Chart: Company response types (e.g., "Closed with explanation"). 
-•	Bar Chart: Complaints by submission channel (Web, Phone, etc.). 
-•	Map/Bar Chart: Regional distribution of complaints by state. 
-11. Key Insights
-•	Peak Volume: Complaints rose steadily from 2017, peaking in 2022. 
-•	Primary Issue: "Managing an Account" is the most frequent customer pain point. 
-•	Dominant Channel: Customers prefer digital communication, with most complaints submitted via the Web. 
-•	Resolution Type: Most cases are resolved via "explanation" rather than monetary relief. 
-12. Recommendations
-•	Process Improvement: Audit digital account management portals to reduce "Managing an Account" friction. 
-•	Resource Allocation: Increase support staff or localized training for California and Florida. 
-•	UX Enhancement: Improve the stability of the Web submission channel to maintain customer trust. 
-•	Quality Assurance: Review "explanation-only" resolutions to ensure root causes are truly addressed. 
+#### KPI Cards: 
+  Total Complaints, Affected Products, and Timely Response Rate.
+#### Bar Chart: 
+  Most common complaint issues. 
+#### Line Chart: 
+  Complaint trends over time (showing a peak in 2022). 
+#### Column Chart:
+  Complaint by Product.
+#### Slicers:
+  Product and State filters for deep-dive analysis. 
+  
+### Dashboard Page 2: Company Performance 
+#### Column Chart:
+  Company response types (e.g., "Closed with explanation"). 
+#### Bar Chart: 
+  Regional distribution of complaints by state. 
+#### Doughnut Chart: 
+  Timely vs Untimely response
+#### Bar Chart: 
+  Complaints by submission channel (Web, Phone, etc.). 
+
+
+## Key Insights
+### Volume & Trends:
+  A total of 62.52K customer complaints were recorded. Complaints trended upward from 2017, peaked in 2022, and showed a slight decline in 2023. 
+### Primary Drivers: 
+  "Checking or Savings Accounts" are the most complained-about products (24.81K complaints). The most common specific issue involves "Managing an Account". 
+### Response Performance:
+  Companies have a strong timely response rate of 93.77%. However, most resolutions are "Closed with explanation," with significantly fewer involving monetary or non-monetary relief. 
+### Channels & Geography: 
+  Customers overwhelmingly prefer using the Web for submissions. Geographically, complaints are concentrated in California, Florida, Texas, and New York. 
+
+
+## Recommendations
+### Optimize Account Management Workflows
+#### Finding: 
+  "Managing an Account" is the most reported issue, particularly within the Checking and Savings category. 
+#### Recommendation: 
+  Conduct a comprehensive audit of the digital account management interface. Implement more robust self-service features and "How-To" guides within the web portal to empower customers to resolve common tasks independently.
+#### Stakeholders:
+  Product Managers, Operations Team.
+#### Expected Impact:
+  Reduction in the total volume of account-related complaints and improved customer autonomy, leading to lower operational costs for manual support.
+
+### Regional Resource Allocation
+#### Finding: 
+  California, Florida, Texas, and New York record the highest number of complaints. 
+#### Recommendation:
+  Align customer service staffing and regional training programs to match the high volume in these four states. Consider localized marketing or communication strategies to address regional concerns or regulatory differences.
+#### Stakeholders:
+  Operations, Executive Leadership, Marketing.
+#### Expected Impact: 
+  Improved regional customer satisfaction and faster resolution times for high-volume areas.
+  
+### Digital Channel Enhancement
+#### Finding: 
+  The Web is the most frequently used channel for complaints. 
+#### Recommendation:
+  Invest in the stability and user experience (UX) of the web-based complaint submission system. Integrate real-time status tracking for complaints submitted online so customers are kept informed without needing to call.
+#### Stakeholders:
+  Data and Analytics Team, Product Managers.
+#### Expected Impact:
+  Enhanced customer trust and transparency, reducing the likelihood of "follow-up" complaints across other channels.
+
+### Quality Review of "Explanation-Only" Resolutions
+#### Finding:
+  Most complaints are resolved through explanations, with very few involving relief. 
+#### Recommendation:
+  Perform a quality assurance (QA) review on a sample of cases closed with "explanation" to ensure customer needs were actually met. Determine if these explanations are effectively resolving the root cause or merely closing the ticket.
+#### Stakeholders: 
+  Customer Service Team, Compliance and Risk Department.
+#### Expected Impact: 
+  Higher true resolution rates and a decrease in repeat complaints for the same issues.
+
+### Proactive Peak Management Strategy
+#### Finding: 
+  Complaints peaked significantly in 2022 before a slight decline. 
+#### Recommendation: 
+  Analyze the specific drivers behind the 2022 surge (e.g., policy changes, external economic factors, or system outages) to create a "Peak Response Playbook" for future volatility.
+#### Stakeholders: 
+  Executive Leadership, Risk Management.
+#### Expected Impact: 
+  Better business resilience and the ability to maintain the 93.77% timely response rate even during periods of high volume. 
+
+### Report Accuracy & Data Integrity
+#### Finding:
+  "Incorrect information on reports" is a top recurring issue. 
+#### Recommendation: 
+  Strengthen data validation protocols for customer reporting and credit reporting departments. Implement automated cross-checks to ensure data accuracy before it reaches the customer or external bureaus.
+#### Stakeholders: 
+  Compliance and Risk Department, Data and Analytics Team.
+#### Expected Impact:
+  Reduction in high-risk complaints that could lead to legal or regulatory penalties.
+
 13. Conclusion
 The analysis reveals that while the company maintains a high response rate, systemic issues in account management and digital UX are driving high volumes in specific regions. Addressing these will lower operational strain and improve long-term retention. 
 14. Contact Information
