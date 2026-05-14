@@ -1,34 +1,34 @@
 # Customer-Complaint-Analytics
+
 A comprehensive data analysis project examining consumer complaints in the bank of America using Excel and Power BI.
 
 ## Introduction
+
 The business observed a steady rise in customer complaints across various service channels, threatening customer satisfaction and brand reputation. This project investigates these trends to uncover root causes and improve service delivery. 
 
 
 ## Project Description
+
 This project follows a structured data analysis lifecycle including problem definition, data cleaning in Microsoft Excel, and the development of interactive dashboards in Power BI to provide actionable insights for stakeholders. 
 
 
 ## Project Aim
+
 The goal is to analyze customer behavior patterns, evaluate company response efficiency, and identify high-risk products and regions to support strategic decision-making. 
 
 
 ## About the Dataset
-### Source:
-  Finance Industry Consumer Complaints dataset provided by Skills to Career (STC).
-### Size:
-  62,516 rows and 12 columns.
-### Key Fields:
-  Complaint ID, Product, Sub-product, Issue, Date Received, Submission Channel, State, and Timely Response.
+
+* Source: Bank of America Consumer Complaints dataset provided by Skills to Career (STC).
+* Size: 62,516 rows and 12 columns.
+* Key Fields: Complaint ID, Product, Sub-product, Issue, Date Received, Submission Channel, State, and Timely Response.
 
 
 ## Tools Used
-### Microsoft Excel:
-  Used for data inspection, cleaning, and handling missing values. 
-### Microsoft Power BI:
-  Used for data modeling, DAX calculations, and interactive visualization. 
-### Microsoft PowerPoint:
-  Used for dashboard wireframing and layout design. 
+
+* Microsoft Excel: Used for data inspection, cleaning, and handling missing values. 
+* Microsoft Power BI: Used for data modeling, DAX calculations, and interactive visualization. 
+* Microsoft PowerPoint: Used for dashboard wireframing and layout design. 
 
   
 ## Importing the Dataset
