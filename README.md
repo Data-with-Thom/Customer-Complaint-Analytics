@@ -164,11 +164,13 @@ The analysis focused on several key performance indicators:
 #### Expected Impact:
   Reduction in high-risk complaints that could lead to legal or regulatory penalties.
 
-13. Conclusion
+
+## Conclusion
 The analysis reveals that while the company maintains a high response rate, systemic issues in account management and digital UX are driving high volumes in specific regions. Addressing these will lower operational strain and improve long-term retention. 
-14. Contact Information
-•	LinkedIn: [Your LinkedIn Profile Link]
-•	Email: [Your Professional Email]
-________________________________________
-Project completed as part of the STC 5-Week Mentorship 3.0. Team: Lamidi Habeebullah, Emmanuel Thomeson, Omolara Buhari. 
+
+
+## Contact Information
+•	LinkedIn: https://www.linkedin.com/in/emmanuel-thomeson/
+•	Email: thoesonemmanuel@gmail.com
+
 
