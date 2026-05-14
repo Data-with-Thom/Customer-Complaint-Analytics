@@ -2,6 +2,23 @@
 
 A comprehensive data analysis project examining consumer complaints in the bank of America using Excel and Power BI.
 
+
+## Table of Content
+
+•	[Introduction](introduction)
+•	(Project Description](project-description)
+•	[Project Aim](project-aim)
+•	[About the Dataset](about-the-dataset)
+•	[Tools Used](tools-used)
+•	[Methodology](methodology)
+•	[Data Cleaning and Transformation](data-cleaning-and-transformation)
+•	[Data Modeling](data-modeling)
+•	[Data Analysis](data-analysis)
+•	[Data Visualization](data-visualization)
+•	[Key Insights](key-insights)
+•	[Recommendations](recommendation)
+
+
 ## Introduction
 
 The business observed a steady rise in customer complaints across various service channels, threatening customer satisfaction and brand reputation. This project investigates these trends to uncover root causes and improve service delivery. 
@@ -29,6 +46,9 @@ The goal is to analyze customer behavior patterns, evaluate company response eff
 * Microsoft Excel: Used for data inspection, cleaning, and handling missing values. 
 * Microsoft Power BI: Used for data modeling, DAX calculations, and interactive visualization. 
 * Microsoft PowerPoint: Used for dashboard wireframing and layout design. 
+
+
+# Methodology
 
   
 ## Importing the Dataset
