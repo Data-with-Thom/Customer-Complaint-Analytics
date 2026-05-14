@@ -66,18 +66,11 @@ The analysis focused on several key performance indicators:
 
 ### Dashboard Page 1: Complaint Overview 
 
-* KPI Cards: Total Complaints, Affected Products, and Timely Response Rate.
-* Bar Chart: Most common complaint issues.
-* Line Chart: Complaint trends over time (showing a peak in 2022). 
-* Column Chart: Complaint by Product.
-* Slicers: Product and State filters for deep-dive analysis. 
+<img width="1328" height="747" alt="Complaint Overview" src="https://github.com/user-attachments/assets/73a7a589-547c-4e4f-90f8-9660f83267d5" />
+ 
   
 ### Dashboard Page 2: Company Performance 
-
-* Column Chart: Company response types (e.g., "Closed with explanation").
-* Bar Chart: Regional distribution of complaints by state. 
-* Doughnut Chart: Timely vs Untimely response
-* Bar Chart: Complaints by submission channel (Web, Phone, etc.). 
+<img width="1327" height="745" alt="Company Performance" src="https://github.com/user-attachments/assets/59d49837-c471-446d-99e9-93e491a63d61" />
 
 
 ## Key Insights
@@ -121,7 +114,7 @@ complaints resulted in monetary or non-monetary relief.
 * Finding: "Managing an Account" is the most reported issue, particularly within the Checking and Savings category. 
 * Recommendation: Conduct a comprehensive audit of the digital account management interface. Implement more robust self-service features and "How-To" guides within the web portal to empower customers to resolve common tasks independently.
 * Stakeholders: Product Managers, Operations Team.
-* Expected Impact:Reduction in the total volume of account-related complaints and improved customer autonomy, leading to lower operational costs for manual support.
+* Expected Impact: Reduction in the total volume of account-related complaints and improved customer autonomy, leading to lower operational costs for manual support.
 
 ### Regional Resource Allocation
 
@@ -134,47 +127,39 @@ complaints resulted in monetary or non-monetary relief.
 
 * Finding: The Web is the most frequently used channel for complaints. 
 * Recommendation: Invest in the stability and user experience (UX) of the web-based complaint submission system. Integrate real-time status tracking for complaints submitted online so customers are kept informed without needing to call.
-#### Stakeholders:
-  Data and Analytics Team, Product Managers.
-#### Expected Impact:
+* Stakeholders: Data and Analytics Team, Product Managers.
+* Expected Impact:
   Enhanced customer trust and transparency, reducing the likelihood of "follow-up" complaints across other channels.
 
 ### Quality Review of "Explanation-Only" Resolutions
-#### Finding:
-  Most complaints are resolved through explanations, with very few involving relief. 
-#### Recommendation:
-  Perform a quality assurance (QA) review on a sample of cases closed with "explanation" to ensure customer needs were actually met. Determine if these explanations are effectively resolving the root cause or merely closing the ticket.
-#### Stakeholders: 
-  Customer Service Team, Compliance and Risk Department.
-#### Expected Impact: 
-  Higher true resolution rates and a decrease in repeat complaints for the same issues.
+
+* Finding: Most complaints are resolved through explanations, with very few involving relief. 
+* Recommendation: Perform a quality assurance (QA) review on a sample of cases closed with "explanation" to ensure customer needs were actually met. Determine if these explanations are effectively resolving the root cause or merely closing the ticket.
+* Stakeholders: Customer Service Team, Compliance and Risk Department.
+* Expected Impact: Higher true resolution rates and a decrease in repeat complaints for the same issues.
 
 ### Proactive Peak Management Strategy
-#### Finding: 
-  Complaints peaked significantly in 2022 before a slight decline. 
-#### Recommendation: 
-  Analyze the specific drivers behind the 2022 surge (e.g., policy changes, external economic factors, or system outages) to create a "Peak Response Playbook" for future volatility.
-#### Stakeholders: 
-  Executive Leadership, Risk Management.
-#### Expected Impact: 
-  Better business resilience and the ability to maintain the 93.77% timely response rate even during periods of high volume. 
+
+* Finding: Complaints peaked significantly in 2022 before a slight decline. 
+* Recommendation: Analyze the specific drivers behind the 2022 surge (e.g., policy changes, external economic factors, or system outages) to create a "Peak Response Playbook" for future volatility.
+* Stakeholders: Executive Leadership, Risk Management.
+* Expected Impact: Better business resilience and the ability to maintain the 93.77% timely response rate even during periods of high volume. 
 
 ### Report Accuracy & Data Integrity
-#### Finding:
-  "Incorrect information on reports" is a top recurring issue. 
-#### Recommendation: 
-  Strengthen data validation protocols for customer reporting and credit reporting departments. Implement automated cross-checks to ensure data accuracy before it reaches the customer or external bureaus.
-#### Stakeholders: 
-  Compliance and Risk Department, Data and Analytics Team.
-#### Expected Impact:
-  Reduction in high-risk complaints that could lead to legal or regulatory penalties.
+
+* Finding: "Incorrect information on reports" is a top recurring issue.
+* Recommendation: Strengthen data validation protocols for customer reporting and credit reporting departments. Implement automated cross-checks to ensure data accuracy before it reaches the customer or external bureaus.
+* Stakeholders: Compliance and Risk Department, Data and Analytics Team.
+* Expected Impact: Reduction in high-risk complaints that could lead to legal or regulatory penalties.
 
 
 ## Conclusion
+
 The analysis reveals that while the company maintains a high response rate, systemic issues in account management and digital UX are driving high volumes in specific regions. Addressing these will lower operational strain and improve long-term retention. 
 
 
 ## Contact Information
+
 * LinkedIn: https://www.linkedin.com/in/emmanuel-thomeson/
 * Email: thoesonemmanuel@gmail.com
 
