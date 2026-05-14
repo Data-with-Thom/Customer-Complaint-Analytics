@@ -58,7 +58,7 @@ The raw data was first imported into Microsoft Excel for initial cleaning and va
 ## Data Analysis
 The analysis focused on several key performance indicators:
 
-** Total Complaints: 62,516 recorded incidents. 
+-- Total Complaints:-- 62,516 recorded incidents. 
 ** Response Performance: A 93.77% timely response rate across all companies. 
 ** Product Performance: Checking/Savings accounts identified as the most frequent source of issues. 
 ** Geographic Hotspots: Complaint density by state (California, Florida, Texas, New York). 
