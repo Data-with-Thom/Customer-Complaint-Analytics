@@ -58,14 +58,19 @@ The raw data was first imported into Microsoft Excel for initial cleaning and va
 ## Data Analysis
 The analysis focused on several key performance indicators:
 
--- Total Complaints:-- 62,516 recorded incidents. 
-** Response Performance: A 93.77% timely response rate across all companies. 
-** Product Performance: Checking/Savings accounts identified as the most frequent source of issues. 
-** Geographic Hotspots: Complaint density by state (California, Florida, Texas, New York). 
+### Total Complaints:
+  62,516 recorded incidents. 
+### Response Performance:
+  A 93.77% timely response rate across all companies. 
+### Product Performance:
+  Checking/Savings accounts identified as the most frequent source of issues. 
+### Geographic Hotspots:
+  Complaint density by state (California, Florida, Texas, New York). 
 
-10. Data Visualization
-Dashboard Page 1: Complaint Overview 
-•	KPI Cards: Total Complaints, Affected Products, and Timely Response Rate. 
+
+## Data Visualization
+### Dashboard Page 1: Complaint Overview 
+#### KPI Cards: Total Complaints, Affected Products, and Timely Response Rate. 
 •	Line Chart: Complaint trends over time (showing a peak in 2022). 
 •	Bar Chart: Most common complaint issues and complaints by product. 
 •	Slicers: Product and State filters for deep-dive analysis. 
