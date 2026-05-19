@@ -104,6 +104,8 @@ Companies maintained a strong customer service performance with a 93.77% timely 
 ### Complaint Trends
 Customer complaints increased steadily from 2017 and reached their peak around 2022 before
 declining slightly in 2023. 
+<img width="772" height="222" alt="image" src="https://github.com/user-attachments/assets/ec8bdf66-8e9f-4df7-8b89-cfe8dad8907a" />
+
 
 ### Common Customer Issues
 The most reported issue by customers was managing an Account, followed by Incorrect Information
