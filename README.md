@@ -88,13 +88,6 @@ The analysis focused on several key performance indicators:
 
 <img width="1328" height="747" alt="Complaint Overview" src="https://github.com/user-attachments/assets/73a7a589-547c-4e4f-90f8-9660f83267d5" />
  
-
-  
-### Dashboard Page 2: Company Performance 
-
-<img width="1327" height="745" alt="Company Performance" src="https://github.com/user-attachments/assets/59d49837-c471-446d-99e9-93e491a63d61" />
-
-
 ## Key Insights
 
 
@@ -115,6 +108,13 @@ declining slightly in 2023.
 ### Common Customer Issues
 The most reported issue by customers was managing an Account, followed by Incorrect Information
 on Reports and Problems with Purchases. 
+  
+### Dashboard Page 2: Company Performance 
+
+<img width="1327" height="745" alt="Company Performance" src="https://github.com/user-attachments/assets/59d49837-c471-446d-99e9-93e491a63d61" />
+
+## Key Insights
+
 
 ### Complaint Submission Channels
 Most complaints were submitted through the web channel, indicating that customers prefer digital
