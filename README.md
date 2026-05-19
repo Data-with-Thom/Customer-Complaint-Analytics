@@ -58,7 +58,7 @@ The raw data was first imported into Microsoft Excel for initial cleaning and va
 
 ## Data Cleaning & Transformation
 
-* Handled Missing Values: Replaced missing "Sub-product" with "Unknown" and missing "Sub-issue" or "Public Response" with "Not Specified." 
+* Handled Missing Values: Replaced missing "Sub-product", missing "Sub-issue" or "Public Response" with "Not Specified." 
 * Standardized Columns: Renamed "Timely Response?" to "Timely Response" and removed special characters (e.g., "?") from headers. 
 * Data Type Validation: Confirmed date fields were correctly formatted and categorical fields were recognized as text. 
 * Duplicate Check: Verified that the dataset contained no duplicate records. 
