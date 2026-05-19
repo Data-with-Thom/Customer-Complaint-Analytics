@@ -138,6 +138,22 @@ complaints resulted in monetary or non-monetary relief.
 * Stakeholders: Product Managers, Operations Team.
 * Expected Impact: Reduction in the total volume of account-related complaints and improved customer autonomy, leading to lower operational costs for manual support.
 
+### Proactive Peak Management Strategy
+
+* Finding: Complaints peaked significantly in 2022 before a slight decline. 
+* Recommendation: Analyze the specific drivers behind the 2022 surge (e.g., policy changes, external economic factors, or system outages) to create a "Peak Response Playbook" for future volatility.
+* Stakeholders: Executive Leadership, Risk Management.
+* Expected Impact: Better business resilience and the ability to maintain the 93.77% timely response rate even during periods of high volume.
+
+
+### Quality Review of "Explanation-Only" Resolutions
+
+* Finding: Most complaints are resolved through explanations, with very few involving relief. 
+* Recommendation: Perform a quality assurance (QA) review on a sample of cases closed with "explanation" to ensure customer needs were actually met. Determine if these explanations are effectively resolving the root cause or merely closing the ticket.
+* Stakeholders: Customer Service Team, Compliance and Risk Department.
+* Expected Impact: Higher true resolution rates and a decrease in repeat complaints for the same issues.
+
+
 ### Regional Resource Allocation
 
 * Finding: California, Florida, Texas, and New York record the highest number of complaints.
@@ -153,19 +169,7 @@ complaints resulted in monetary or non-monetary relief.
 * Expected Impact:
   Enhanced customer trust and transparency, reducing the likelihood of "follow-up" complaints across other channels.
 
-### Quality Review of "Explanation-Only" Resolutions
 
-* Finding: Most complaints are resolved through explanations, with very few involving relief. 
-* Recommendation: Perform a quality assurance (QA) review on a sample of cases closed with "explanation" to ensure customer needs were actually met. Determine if these explanations are effectively resolving the root cause or merely closing the ticket.
-* Stakeholders: Customer Service Team, Compliance and Risk Department.
-* Expected Impact: Higher true resolution rates and a decrease in repeat complaints for the same issues.
-
-### Proactive Peak Management Strategy
-
-* Finding: Complaints peaked significantly in 2022 before a slight decline. 
-* Recommendation: Analyze the specific drivers behind the 2022 surge (e.g., policy changes, external economic factors, or system outages) to create a "Peak Response Playbook" for future volatility.
-* Stakeholders: Executive Leadership, Risk Management.
-* Expected Impact: Better business resilience and the ability to maintain the 93.77% timely response rate even during periods of high volume. 
 
 ### Report Accuracy & Data Integrity
 
