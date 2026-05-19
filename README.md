@@ -170,15 +170,6 @@ complaints resulted in monetary or non-monetary relief.
   Enhanced customer trust and transparency, reducing the likelihood of "follow-up" complaints across other channels.
 
 
-
-### Report Accuracy & Data Integrity
-
-* Finding: "Incorrect information on reports" is a top recurring issue.
-* Recommendation: Strengthen data validation protocols for customer reporting and credit reporting departments. Implement automated cross-checks to ensure data accuracy before it reaches the customer or external bureaus.
-* Stakeholders: Compliance and Risk Department, Data and Analytics Team.
-* Expected Impact: Reduction in high-risk complaints that could lead to legal or regulatory penalties.
-
-
 ## Conclusion
 
 The analysis reveals that while the company maintains a high response rate, systemic issues in account management and digital UX are driving high volumes in specific regions. Addressing these will lower operational strain and improve long-term retention. 
