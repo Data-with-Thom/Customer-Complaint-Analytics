@@ -86,7 +86,8 @@ The analysis focused on several key performance indicators:
 
 ### Dashboard Page 1: Complaint Overview 
 
-<img width="1330" height="750" alt="image" src="https://github.com/user-attachments/assets/035b97c6-5eb3-4054-9f1c-a1d1c1c92252" />
+<img width="1323" height="745" alt="image" src="https://github.com/user-attachments/assets/2933bf3f-cddd-43dc-b9f3-12cf323026ba" />
+
 
  
 ## Key Insights
