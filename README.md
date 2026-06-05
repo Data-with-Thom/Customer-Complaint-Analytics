@@ -446,16 +446,8 @@ California alone accounts for more than double the complaints recorded in Florid
 
 ---
 
-### Executive Summary
 
-#### Key Findings
-1. Most complaints are resolved through explanations rather than financial compensation.
-2. The company maintains a strong timely response rate of **93.77%**.
-3. The web platform is the dominant complaint submission channel.
-4. California represents the largest concentration of complaints.
-5. A small but significant number of complaints still experience delayed responses.
-
-#### Strategic Priorities
+### Overall Summary of Recommendation
 - Improve digital customer experience.
 - Reduce complaint volumes in high-risk states.
 - Strengthen proactive customer communication.
