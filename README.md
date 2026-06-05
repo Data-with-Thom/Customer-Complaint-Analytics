@@ -84,7 +84,7 @@ The analysis focused on several key performance indicators:
 ## Data Visualization
 
 
-### Dashboard Page 1: Complaint Overview 
+## Dashboard Page 1: Complaint Overview 
 
 <img width="1326" height="747" alt="image" src="https://github.com/user-attachments/assets/38a1cfab-b181-4686-bd2c-805d904fc187" />
 
@@ -289,61 +289,179 @@ Together, these actions will help reduce customer complaints, improve customer s
 
 <img width="1327" height="745" alt="Company Performance" src="https://github.com/user-attachments/assets/59d49837-c471-446d-99e9-93e491a63d61" />
 
-## Key Insights
+## Insights, Recommendations, Stakeholders, and Expected Impact
 
+---
 
-### Complaint Submission Channels
-Most complaints were submitted through the web channel, indicating that customers prefer digital
-communication channels over phone calls or emails. 
+## 1. Chart: Company Response to Customer Types
 
-### Geographic Distribution
-California recorded the highest number of complaints, followed by Florida, Texas, and New York. 
+### Insight
+The majority of complaints (**41.04K**) were **closed with an explanation**, indicating that many customer issues were resolved through clarification rather than compensation.
 
-### Company Response Types
-Most complaints were resolved through explanations provided by companies, while fewer
-complaints resulted in monetary or non-monetary relief.
+Other outcomes include:
+- Closed with monetary relief: **14.70K**
+- Closed with non-monetary relief: **5.27K**
+- In progress: **1.49K**
+- Closed: **0.01K**
 
+This suggests that misunderstandings, communication gaps, and lack of customer awareness may be major drivers of complaints.
 
-## Recommendations
+### Recommendation
+- Improve customer communication and transparency.
+- Enhance FAQs, self-service portals, and customer education resources.
+- Analyze cases requiring monetary relief to identify recurring operational failures.
+- Reduce the number of unresolved ("In Progress") complaints through faster case management.
 
+### Stakeholders
+- Customer Experience Team
+- Customer Support Team
+- Product Managers
+- Compliance Team
+- Operations Managers
 
-### Optimize Account Management Workflows
+### Expected Impact
+- Reduction in repeat complaints.
+- Lower compensation costs.
+- Faster complaint resolution.
+- Increased customer trust and satisfaction.
 
-* Finding: "Managing an Account" is the most reported issue, particularly within the Checking and Savings category. 
-* Recommendation: Conduct a comprehensive audit of the digital account management interface. Implement more robust self-service features and "How-To" guides within the web portal to empower customers to resolve common tasks independently.
-* Stakeholders: Product Managers, Operations Team.
-* Expected Impact: Reduction in the total volume of account-related complaints and improved customer autonomy, leading to lower operational costs for manual support.
+---
 
-### Proactive Peak Management Strategy
+## 2. Chart: Timely vs Untimely Responses
 
-* Finding: Complaints peaked significantly in 2022 before a slight decline. 
-* Recommendation: Analyze the specific drivers behind the 2022 surge (e.g., policy changes, external economic factors, or system outages) to create a "Peak Response Playbook" for future volatility.
-* Stakeholders: Executive Leadership, Risk Management.
-* Expected Impact: Better business resilience and the ability to maintain the 93.77% timely response rate even during periods of high volume.
+### Insight
+Out of all complaints:
+- **58.62K (93.77%)** received timely responses.
+- **2.40K (3.84%)** received untimely responses.
+- A small percentage were not specified.
 
+The organization demonstrates strong responsiveness, but delayed responses still affect thousands of customers.
 
-### Quality Review of "Explanation-Only" Resolutions
+### Recommendation
+- Implement automated complaint routing and escalation systems.
+- Monitor Service Level Agreements (SLAs) in real time.
+- Prioritize high-risk and overdue complaints.
+- Increase staffing during peak complaint periods.
 
-* Finding: Most complaints are resolved through explanations, with very few involving relief. 
-* Recommendation: Perform a quality assurance (QA) review on a sample of cases closed with "explanation" to ensure customer needs were actually met. Determine if these explanations are effectively resolving the root cause or merely closing the ticket.
-* Stakeholders: Customer Service Team, Compliance and Risk Department.
-* Expected Impact: Higher true resolution rates and a decrease in repeat complaints for the same issues.
+### Stakeholders
+- Customer Service Department
+- Operations Team
+- IT Department
+- Executive Management
 
+### Expected Impact
+- Improved customer experience.
+- Increased customer retention.
+- Reduced complaint escalation.
+- Better regulatory compliance.
 
-### Regional Resource Allocation
+---
 
-* Finding: California, Florida, Texas, and New York record the highest number of complaints.
-* Recommendation: Align customer service staffing and regional training programs to match the high volume in these four states. Consider localized marketing or communication strategies to address regional concerns or regulatory differences.
-* Stakeholders: Operations, Executive Leadership, Marketing.
-* Expected Impact: Improved regional customer satisfaction and faster resolution times for high-volume areas.
-  
-### Digital Channel Enhancement
+## 3. Chart: Complaints by Submission Channel
 
-* Finding: The Web is the most frequently used channel for complaints. 
-* Recommendation: Invest in the stability and user experience (UX) of the web-based complaint submission system. Integrate real-time status tracking for complaints submitted online so customers are kept informed without needing to call.
-* Stakeholders: Data and Analytics Team, Product Managers.
-* Expected Impact:
-  Enhanced customer trust and transparency, reducing the likelihood of "follow-up" complaints across other channels.
+### Insight
+The **Web channel dominates complaint submissions**, accounting for approximately **45.42K complaints**, significantly higher than all other channels.
+
+| Channel | Complaints |
+|----------|-----------:|
+| Web | 45.42K |
+| Referral | 10.77K |
+| Phone | 4.68K |
+| Postal Mail | 1.32K |
+| Fax | 0.23K |
+| Web Referral | 0.09K |
+| Email | 0.00K |
+
+This indicates that customers strongly prefer digital channels when reporting issues.
+
+### Recommendation
+- Invest in improving web platform performance and usability.
+- Add chatbot and self-service support capabilities.
+- Optimize complaint submission forms to capture complete information.
+- Monitor website issues proactively to prevent customer frustration.
+
+### Stakeholders
+- Digital Experience Team
+- IT Department
+- Customer Service Team
+- Product Development Team
+
+### Expected Impact
+- Faster complaint resolution.
+- Reduced customer effort.
+- Better digital customer experience.
+- Increased operational efficiency.
+
+---
+
+## 4. Chart: Complaints by State
+
+### Insight
+Complaints are concentrated in a few states:
+
+| State | Complaints |
+|---------|----------:|
+| California | 13.71K |
+| Florida | 6.49K |
+| Texas | 4.69K |
+| New York | 4.44K |
+| Georgia | 2.92K |
+| New Jersey | 2.66K |
+| Illinois | 2.27K |
+| Massachusetts | 2.14K |
+| Maryland | 1.96K |
+| Virginia | 1.73K |
+
+California alone accounts for more than double the complaints recorded in Florida, suggesting either:
+- A larger customer base,
+- Higher product adoption,
+- Or more significant customer experience challenges.
+
+### Recommendation
+- Conduct regional root-cause analysis in high-complaint states.
+- Deploy targeted customer support initiatives in California and Florida.
+- Compare operational practices between high-performing and low-performing states.
+- Increase monitoring of regional customer feedback.
+
+### Stakeholders
+- Regional Operations Managers
+- Customer Experience Team
+- Product Managers
+- Business Intelligence Team
+- Executive Leadership
+
+### Expected Impact
+- Better regional service quality.
+- Reduced complaint concentration in high-risk states.
+- Improved customer satisfaction across regions.
+- More efficient allocation of support resources.
+
+---
+
+## Executive Summary
+
+### Key Findings
+1. Most complaints are resolved through explanations rather than financial compensation.
+2. The company maintains a strong timely response rate of **93.77%**.
+3. The web platform is the dominant complaint submission channel.
+4. California represents the largest concentration of complaints.
+5. A small but significant number of complaints still experience delayed responses.
+
+### Strategic Priorities
+- Improve digital customer experience.
+- Reduce complaint volumes in high-risk states.
+- Strengthen proactive customer communication.
+- Optimize complaint handling processes.
+- Continue improving response time performance.
+
+### Overall Business Impact
+Implementing these recommendations can lead to:
+- Higher customer satisfaction.
+- Lower complaint handling costs.
+- Improved operational efficiency.
+- Stronger regulatory compliance.
+- Increased customer loyalty and retention.
+
 
 
 ## Conclusion
